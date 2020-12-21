@@ -29,3 +29,8 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossor√≥-RN, onde atuo na √
 #### Gerenciamento
 <img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" width=50> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" width=120>
 
+
+
+
+
+[![Visits Badge](https://badges.pufler.dev/visits/ElizeuS/ElizeuS)](https://badges.pufler.dev)
