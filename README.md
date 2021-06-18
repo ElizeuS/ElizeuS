@@ -18,7 +18,7 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na �
 
 ## Formação
 
- - [ ] Mestrado em Ciência da Computação (2018 - atual) - [PPGCC](https://ppgcc.ufersa.edu.br/) - [UERN](http://portal.uern.br/)/[UFERSA](https://ufersa.edu.br/)
+ - [ ] Mestrado em Ciência da Computação (2018 - 2021) - [PPGCC](https://ppgcc.ufersa.edu.br/) - [UERN](http://portal.uern.br/)/[UFERSA](https://ufersa.edu.br/)
  - [ ] Graduação em Sistemas de Informção (2014 - 2018) - UFERSA
  - [ ] Técnico em Informática (2010 - 2014) - [IFRN](https://portal.ifrn.edu.br/campus/ipanguacu)
 
