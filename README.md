@@ -4,23 +4,23 @@
 
 Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na área da docência, como professor temporário de informática na **[12º DIREC](https://www.facebook.com/direcmossoro/)**, ministrando as seguintes disciplinas:
 
- - [ ] Informática Básica
- - [ ] Arquitetura e Organização de Computadores
- - [ ] Lógica de Programação (Algoritmos)
- - [ ] Programação Estruturada e Orientada a Objetos
- - [ ] Tecnologia de Implementação de Redes
- - [ ] Banco de Dados (I e II)
- - [ ] Segurança da Informação
- - [ ] Desenvolvimento de Sistemas
+ - [x] Informática Básica
+ - [x] Arquitetura e Organização de Computadores
+ - [x] Lógica de Programação (Algoritmos)
+ - [x] Programação Estruturada e Orientada a Objetos
+ - [x] Tecnologia de Implementação de Redes
+ - [x] Banco de Dados (I e II)
+ - [x] Segurança da Informação
+ - [x] Desenvolvimento de Sistemas
 
 ## Contatos
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width=40 height=40>](https://www.linkedin.com/in/elizeu-sandro-da-silva-685299161/) [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width=40 height=40>](elizeusandro3@gmail.com) [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width=40 height=40>](https://www.facebook.com/elizeusandro/)  
 
 ## Formação
 
- - [ ] Mestrado em Ciência da Computação (2018 - 2021) - [PPGCC](https://ppgcc.ufersa.edu.br/) - [UERN](http://portal.uern.br/)/[UFERSA](https://ufersa.edu.br/)
- - [ ] Graduação em Sistemas de Informção (2014 - 2018) - UFERSA
- - [ ] Técnico em Informática (2010 - 2014) - [IFRN](https://portal.ifrn.edu.br/campus/ipanguacu)
+ - [x] Mestrado em Ciência da Computação (2018 - 2021) - [PPGCC](https://ppgcc.ufersa.edu.br/) - [UERN](http://portal.uern.br/)/[UFERSA](https://ufersa.edu.br/)
+ - [x] Graduação em Sistemas de Informção (2014 - 2018) - UFERSA
+ - [x] Técnico em Informática (2010 - 2014) - [IFRN](https://portal.ifrn.edu.br/campus/ipanguacu)
 
 ## Habilidades
 #### Desenvolvimento
