@@ -27,7 +27,7 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na �
  - [x] Técnico em Informática (2010 - 2014) - [IFRN](https://portal.ifrn.edu.br/campus/ipanguacu)
 
 ## Habilidades
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElizeuS&theme=react&show_icons=true)](https://github.com/ElizeuS/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizeuS&layout=compact&theme=react)](https://github.com/ElizeuS/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElizeuS&theme=compact&show_icons=true)](https://github.com/ElizeuS/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElizeuS&layout=compact&theme=compact)](https://github.com/ElizeuS/)
 
 ### Desenvolvimento
 ##
@@ -56,7 +56,7 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na �
 **IDE:**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode)
-##
 
+##
 
 [![Visits Badge](https://badges.pufler.dev/visits/ElizeuS/ElizeuS)](https://badges.pufler.dev)
