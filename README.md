@@ -12,6 +12,7 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na �
  - [x] Banco de Dados (I e II)
  - [x] Segurança da Informação
  - [x] Desenvolvimento de Sistemas
+ - [x] Programação Web (I e II)
 
 ## Contatos
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width=40 height=40>](https://www.linkedin.com/in/elizeu-sandro-da-silva-685299161/) [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width=40 height=40>](elizeusandro3@gmail.com) [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width=40 height=40>](https://www.facebook.com/elizeusandro/)  
