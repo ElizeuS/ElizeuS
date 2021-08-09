@@ -1,3 +1,4 @@
+
 ### Bem vindos ao meu perfil!
 
 #### Olá! Aqui você encontrará um pouco sobre o meu perfil profissional. 
@@ -15,7 +16,9 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na �
  - [x] Programação Web (I e II)
 
 ## Contatos
-[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width=40 height=40>](https://www.linkedin.com/in/elizeu-sandro-da-silva-685299161/) [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width=40 height=40>](elizeusandro3@gmail.com) [<img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width=40 height=40>](https://www.facebook.com/elizeusandro/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizeusandro/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12894615/elizeu-sandro) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=elizeusandro3@gmail.com&tf=cm&su=Contato) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/elizeusandro/)  
+
+
 
 ## Formação
 
@@ -24,13 +27,18 @@ Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na �
  - [x] Técnico em Informática (2010 - 2014) - [IFRN](https://portal.ifrn.edu.br/campus/ipanguacu)
 
 ## Habilidades
-#### Desenvolvimento
-<img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" width=150> <img src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png" height=80> <img src="https://www.carlrippon.com/static/64d2dff032f91508ec5326d8e4cdaaab/11d19/React-and-typescript.png" width=150 height=80> <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width=70> <img src="https://miro.medium.com/max/256/1*ztqS5rRI29GHxZa6uPF2UA.png" width=70> <img src="https://devopstales.github.io/img/postgres.png" width=70> 
+### Desenvolvimento
+#### Front End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### Gerenciamento
-<img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" width=50> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" width=120>
+#### Back End
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+#### Banco de Dados
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+#### Versionamento
+<img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" width=40> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" width=100>
 
 
 
