@@ -3,7 +3,7 @@
 
 #### Olá! Aqui você encontrará um pouco sobre o meu perfil profissional. 
 
-Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuo na área da docência, como professor temporário de informática na **[12º DIREC](https://www.facebook.com/direcmossoro/)**, ministrando as seguintes disciplinas:
+Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuei na área da docência, como professor temporário de informática durante 1 ano e meio na **[12º DIREC](https://www.facebook.com/direcmossoro/)**, ministrando as seguintes disciplinas:
 
  - [x] Informática Básica
  - [x] Arquitetura e Organização de Computadores
