@@ -3,18 +3,6 @@
 
 #### Olá! Aqui você encontrará um pouco sobre o meu perfil profissional. 
 
-Me chamo Elizeu Sandro, moro atualmente na cidade de Mossoró-RN, onde atuei na área da docência, como professor temporário de informática durante 1 ano e meio na **[12º DIREC](https://www.facebook.com/direcmossoro/)**, ministrando as seguintes disciplinas:
-
- - [x] Informática Básica
- - [x] Arquitetura e Organização de Computadores
- - [x] Lógica de Programação (Algoritmos)
- - [x] Programação Estruturada e Orientada a Objetos
- - [x] Tecnologia de Implementação de Redes
- - [x] Banco de Dados (I e II)
- - [x] Segurança da Informação
- - [x] Desenvolvimento de Sistemas
- - [x] Programação Web (I e II)
-
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizeusandro/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12894615/elizeu-sandro) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizeusandro3@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:elizeusandrohotmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/elizeusandro/)  
 
